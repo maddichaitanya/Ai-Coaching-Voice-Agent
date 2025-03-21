@@ -52,3 +52,10 @@ for init :
 Sign up link :- http://localhost:3000/handler/sign-up
 
 set up :- http://localhost:3000/handler/account-settings
+
+## for ConvexDatabase
+
+link :- https://dashboard.convex.dev/t/maddi-chaitanya
+
+1. install :- npm install convex
+2. to run := npx convex dev
