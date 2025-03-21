@@ -34,3 +34,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## for Tailwind CSS
+
+install = npx shadcn@latest init
+for Button = npx shadcn@latest add button
+
+## for Authencation i used Stack Auth
+
+for study https://docs.stack-auth.com/next/overview
+
+for init :
+
+1. npx @stackframe/init-stack@latest
+2. https://app.stack-auth.com/projects/4cdc5cff-f27a-4514-ab67-863e5887f3f6/users
+
+Sign up link :- http://localhost:3000/handler/sign-up
+
+set up :- http://localhost:3000/handler/account-settings
